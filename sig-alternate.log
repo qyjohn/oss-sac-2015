@@ -1,0 +1,552 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.4.4)  21 SEP 2014 22:01
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**sig-alternate.tex
+(./sig-alternate.tex
+LaTeX2e <2011/06/27>
+Babel <3.9f> and hyphenation patterns for 78 languages loaded.
+(./sig-alternate.cls
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count79
+))
+\Gin@req@height=\dimen102
+\Gin@req@width=\dimen103
+)
+\epsfxsize=\dimen104
+\epsfysize=\dimen105
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks15
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip41
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen106
+))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen107
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count80
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count81
+\leftroot@=\count82
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count83
+\DOTSCASE@=\count84
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen108
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count85
+\c@MaxMatrixCols=\count86
+\dotsspace@=\muskip10
+\c@parentequation=\count87
+\dspbrk@lvl=\count88
+\tag@help=\toks17
+\row@=\count89
+\column@=\count90
+\maxfields@=\count91
+\andhelp@=\toks18
+\eqnshift@=\dimen109
+\alignsep@=\dimen110
+\tagshift@=\dimen111
+\tagwidth@=\dimen112
+\totwidth@=\dimen113
+\lineht@=\dimen114
+\@envbody=\toks19
+\multlinegap=\skip42
+\multlinetaggap=\skip43
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+Document Class 'sig-alternate' <23rd. May '12>. Modified by G.K.M. Tobin/Gerry 
+Murray
+Based in part upon document Style `acmconf' <22 May 89>. Hacked 4/91 by
+shivers@cs.cmu.edu, 4/93 by theobald@cs.mcgill.ca
+Excerpts were taken from (Journal Style) 'esub2acm.cls'.
+****** Bugs/comments/suggestions/technicalities to Gerry Murray -- murray@hq.ac
+m.org ******
+Questions on the style, SIGS policies, etc. to Adrienne Griscti griscti@acm.org
+
+\footheight=\dimen115
+\@maxsep=\dimen116
+\@dblmaxsep=\dimen117
+\aucount=\count92
+\originalaucount=\count93
+\auwidth=\dimen118
+\auskip=\dimen119
+\auskipcount=\count94
+\auskip=\dimen120
+\allauboxes=\dimen121
+\addauthors=\toks21
+\addauflag=\count95
+\subtitletext=\toks22
+\savesection=\count96
+\sectioncntr=\count97
+\c@figure=\count98
+\c@table=\count99
+\titleboxnotes=\toks23
+\titleboxnoteflag=\count100
+Document Class: sig-alternate 2012/05/23 - V2.5 - based on acmproc.cls V1.3 <No
+v. 30 '99>
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
+)
+\@acmtitlebox=\box28
+\titlenotecount=\count101
+\tntoks=\toks24
+\tntokstwo=\toks25
+\tntoksthree=\toks26
+\tntoksfour=\toks27
+\tntoksfive=\toks28
+\catcount=\count102
+\copyrightnotice=\toks29
+\conf=\toks30
+\confinfo=\toks31
+\c@part=\count103
+\c@section=\count104
+\c@subsection=\count105
+\c@subsubsection=\count106
+\c@paragraph=\count107
+
+Using 'Abbrev' bibliography style
+LaTeX Info: Redefining \cite on input line 1211.
+\bibindent=\dimen122
+\colcntr=\count108
+\saveb@x=\box29
+\copyrtyr=\toks32
+\acmcopyr=\toks33
+\boilerplate=\toks34
+\copyrightetc=\toks35
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+)
+LaTeX Font Info:    Try loading font information for T1+aer on input line 100.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/ae/t1aer.fd
+File: t1aer.fd 1997/11/16 Font definitions for T1/aer.
+)))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen123
+\captionmargin@=\dimen124
+\captionwidth=\dimen125
+\caption@tempdima=\dimen126
+\caption@indent=\dimen127
+\caption@parindent=\dimen128
+\caption@hangindent=\dimen129
+\abovecaptionskip=\skip44
+\belowcaptionskip=\skip45
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = \long macro:#1#2-> \vskip 10pt \setbox \@
+tempboxa \hbox {\textbf {#1: #2}} \ifdim \wd \@tempboxa >\hsize \textbf {#1: #2
+}\par \else \hbox to\hsize {\hfil \box \@tempboxa \hfil } \fi .
+\c@ContinuedFloat=\count109
+)
+\c@KVtest=\count110
+\sf@farskip=\skip46
+\sf@captopadj=\dimen130
+\sf@capskip=\skip47
+\sf@nearskip=\skip48
+\c@subfigure=\count111
+\c@subfigure@save=\count112
+\c@lofdepth=\count113
+\c@subtable=\count114
+\c@subtable@save=\count115
+\c@lotdepth=\count116
+\sf@top=\skip49
+\sf@bottom=\skip50
+) (/usr/local/texlive/2013/texmf-dist/tex/latex/base/fixltx2e.sty
+Package: fixltx2e 2006/09/13 v1.1m fixes to LaTeX
+LaTeX Info: Redefining \em on input line 420.
+LaTeX Info: The control sequence `\[' is already robust on input line 471.
+LaTeX Info: The control sequence `\]' is already robust on input line 472.
+)
+(./sig-alternate.aux)
+\openout1 = `sig-alternate.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+
+(/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count117
+\scratchdimen=\dimen131
+\scratchbox=\box30
+\nofMPsegments=\count118
+\nofMParguments=\count119
+\everyMPshowfont=\toks36
+\MPscratchCnt=\count120
+\MPscratchDim=\dimen132
+\MPnumerator=\count121
+\makeMPintoPDFobject=\count122
+\everyMPtoPDFconversion=\toks37
+) (/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Try loading font information for U+msa on input line 145.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 145.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+lasy on input line 145.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+Overfull \hbox (4.57845pt too wide) in paragraph at lines 145--145
+ []\eaddfnt young.lee@sydney.edu.au| 
+ []
+
+
+Overfull \hbox (19.2424pt too wide) in paragraph at lines 145--145
+ []\eaddfnt joseph.davis@sydney.edu.au| 
+ []
+
+
+Overfull \hbox (1.26794pt too wide) in paragraph at lines 153--154
+\T1/aer/m/n/9 H.4 [\T1/aer/bx/n/9 Information Sys-tems Ap-pli-ca-tions\T1/aer/m
+/n/9 ]: Mis-cel-la-neous;
+ []
+
+[1{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+
+]
+<6_fig01_a.pdf, id=15, 389.455pt x 250.9375pt>
+File: 6_fig01_a.pdf Graphic file (type pdf)
+ <use 6_fig01_a.pdf>
+Package pdftex.def Info: 6_fig01_a.pdf used on input line 183.
+(pdftex.def)             Requested size: 117.60132pt x 77.36882pt.
+
+<6_fig01_b.pdf, id=17, 389.455pt x 254.9525pt>
+File: 6_fig01_b.pdf Graphic file (type pdf)
+ <use 6_fig01_b.pdf>
+Package pdftex.def Info: 6_fig01_b.pdf used on input line 187.
+(pdftex.def)             Requested size: 107.99927pt x 75.62662pt.
+
+Overfull \hbox (8.69995pt too wide) in paragraph at lines 197--198
+\T1/aer/m/n/9 C12G Labs to pro-vide value-added pro-fes-sional ser-vices around
+
+ []
+
+
+Overfull \hbox (3.02061pt too wide) in paragraph at lines 199--200
+\T1/aer/m/n/9 Apache Li-cense, ver-sion 2. The early code came from NASA's
+ []
+
+<2_fig02.pdf, id=19, 361.35pt x 216.81pt>
+File: 2_fig02.pdf Graphic file (type pdf)
+ <use 2_fig02.pdf>
+Package pdftex.def Info: 2_fig02.pdf used on input line 207.
+(pdftex.def)             Requested size: 165.9749pt x 99.58464pt.
+
+<4_dev_growth_cloudstack.pdf, id=20, 361.35pt x 216.81pt>
+File: 4_dev_growth_cloudstack.pdf Graphic file (type pdf)
+
+<use 4_dev_growth_cloudstack.pdf>
+Package pdftex.def Info: 4_dev_growth_cloudstack.pdf used on input line 220.
+(pdftex.def)             Requested size: 127.1997pt x 85.94579pt.
+
+<4_dev_growth_eucalyptus.pdf, id=22, 361.35pt x 216.81pt>
+File: 4_dev_growth_eucalyptus.pdf Graphic file (type pdf)
+
+<use 4_dev_growth_eucalyptus.pdf>
+Package pdftex.def Info: 4_dev_growth_eucalyptus.pdf used on input line 224.
+(pdftex.def)             Requested size: 120.0pt x 85.7122pt.
+
+<4_dev_growth_opennebula.pdf, id=24, 361.35pt x 216.81pt>
+File: 4_dev_growth_opennebula.pdf Graphic file (type pdf)
+
+<use 4_dev_growth_opennebula.pdf>
+Package pdftex.def Info: 4_dev_growth_opennebula.pdf used on input line 228.
+(pdftex.def)             Requested size: 120.0pt x 85.22592pt.
+
+<4_dev_growth_openstack.pdf, id=26, 361.35pt x 216.81pt>
+File: 4_dev_growth_openstack.pdf Graphic file (type pdf)
+
+<use 4_dev_growth_openstack.pdf>
+Package pdftex.def Info: 4_dev_growth_openstack.pdf used on input line 232.
+(pdftex.def)             Requested size: 120.0pt x 84.7473pt.
+ [2 <./6_fig01_a.pdf> <./6_fig01_b.pdf> <./2_fig02.pdf>]
+Underfull \vbox (badness 7451) has occurred while \output is active []
+
+ [3 <./4_dev_growth_cloudstack.pdf> <./4_dev_growth_eucalyptus.pdf> <./4_dev_gr
+owth_opennebula.pdf> <./4_dev_growth_openstack.pdf>]
+<4_user_growth_cloudstack.pdf, id=290, 376.40625pt x 240.9pt>
+File: 4_user_growth_cloudstack.pdf Graphic file (type pdf)
+
+<use 4_user_growth_cloudstack.pdf>
+Package pdftex.def Info: 4_user_growth_cloudstack.pdf used on input line 291.
+(pdftex.def)             Requested size: 127.1997pt x 85.94579pt.
+
+<4_user_growth_eucalyptus.pdf, id=292, 356.33125pt x 227.85126pt>
+File: 4_user_growth_eucalyptus.pdf Graphic file (type pdf)
+
+<use 4_user_growth_eucalyptus.pdf>
+Package pdftex.def Info: 4_user_growth_eucalyptus.pdf used on input line 294.
+(pdftex.def)             Requested size: 127.1997pt x 90.34148pt.
+
+<4_user_growth_opennebula.pdf, id=294, 369.38pt x 249.93375pt>
+File: 4_user_growth_opennebula.pdf Graphic file (type pdf)
+
+<use 4_user_growth_opennebula.pdf>
+Package pdftex.def Info: 4_user_growth_opennebula.pdf used on input line 298.
+(pdftex.def)             Requested size: 115.19897pt x 81.81812pt.
+
+<4_user_growth_openstack.pdf, id=296, 374.39874pt x 250.9375pt>
+File: 4_user_growth_openstack.pdf Graphic file (type pdf)
+
+<use 4_user_growth_openstack.pdf>
+Package pdftex.def Info: 4_user_growth_openstack.pdf used on input line 301.
+(pdftex.def)             Requested size: 115.19897pt x 81.35481pt.
+
+Underfull \vbox (badness 1558) has occurred while \output is active []
+
+
+<1_activity_commits.pdf, id=298, 361.35pt x 216.81pt>
+File: 1_activity_commits.pdf Graphic file (type pdf)
+
+<use 1_activity_commits.pdf>
+Package pdftex.def Info: 1_activity_commits.pdf used on input line 327.
+(pdftex.def)             Requested size: 189.68402pt x 113.81102pt.
+
+<1_activity_messages.pdf, id=299, 361.35pt x 216.81pt>
+File: 1_activity_messages.pdf Graphic file (type pdf)
+
+<use 1_activity_messages.pdf>
+Package pdftex.def Info: 1_activity_messages.pdf used on input line 331.
+(pdftex.def)             Requested size: 189.68402pt x 113.81102pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4]
+<1_contrib_org_dev.pdf, id=303, 361.35pt x 216.81pt>
+File: 1_contrib_org_dev.pdf Graphic file (type pdf)
+
+<use 1_contrib_org_dev.pdf>
+Package pdftex.def Info: 1_contrib_org_dev.pdf used on input line 353.
+(pdftex.def)             Requested size: 170.71652pt x 102.43002pt.
+
+<1_contrib_org_user.pdf, id=304, 362.35374pt x 216.81pt>
+File: 1_contrib_org_user.pdf Graphic file (type pdf)
+
+<use 1_contrib_org_user.pdf>
+Package pdftex.def Info: 1_contrib_org_user.pdf used on input line 357.
+(pdftex.def)             Requested size: 170.71652pt x 102.14551pt.
+
+
+LaTeX Warning: Reference `fig:core_contributor' on page \thepage  undefined on 
+input line 372.
+
+[5 <./4_user_growth_cloudstack.pdf> <./4_user_growth_eucalyptus.pdf> <./4_user_
+growth_opennebula.pdf> <./4_user_growth_openstack.pdf> <./1_activity_commits.pd
+f> <./1_activity_messages.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6 <./1_contrib_org_dev.pdf> <./1_contrib_org_user.pdf>]
+<2_dev_linux.pdf, id=601, 361.35pt x 217.81375pt>
+File: 2_dev_linux.pdf Graphic file (type pdf)
+ <use 2_dev_linux.pdf>
+Package pdftex.def Info: 2_dev_linux.pdf used on input line 451.
+(pdftex.def)             Requested size: 127.1997pt x 85.94579pt.
+
+<2_dev_libreoffice.pdf, id=603, 361.35pt x 217.81375pt>
+File: 2_dev_libreoffice.pdf Graphic file (type pdf)
+
+<use 2_dev_libreoffice.pdf>
+Package pdftex.def Info: 2_dev_libreoffice.pdf used on input line 454.
+(pdftex.def)             Requested size: 127.1997pt x 90.34148pt.
+ <2_dev_spark.pdf, id=605, 361.35pt x 216.81pt>
+File: 2_dev_spark.pdf Graphic file (type pdf)
+
+<use 2_dev_spark.pdf>
+Package pdftex.def Info: 2_dev_spark.pdf used on input line 458.
+(pdftex.def)             Requested size: 115.19897pt x 81.81812pt.
+ <2_dev_docker.pdf, id=607, 361.35pt x 216.81pt>
+File: 2_dev_docker.pdf Graphic file (type pdf)
+
+<use 2_dev_docker.pdf>
+Package pdftex.def Info: 2_dev_docker.pdf used on input line 461.
+(pdftex.def)             Requested size: 115.19897pt x 81.35481pt.
+ [7] [8 <./2_dev_linux.pdf> <./2_dev_libreoffice.pdf> <./2_dev_spark.pdf> <./2_
+dev_docker.pdf>] (./sig-alternate.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4170 strings out of 493315
+ 61039 string characters out of 6137905
+ 138930 words of memory out of 5000000
+ 7520 multiletter control sequences out of 15000+600000
+ 52991 words of font info for 72 fonts, out of 8000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 44i,10n,47p,1553b,365s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/tex
+live/2013/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex9.pfb></usr/local/
+texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/te
+xlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texl
+ive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texliv
+e/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2
+013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2013
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2013/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2013/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmti7.pfb></usr/local/texlive/2013/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2013/texmf-d
+ist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2013/texmf-dist/fon
+ts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type
+1/urw/times/utmb8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/time
+s/utmr8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/times/utmri8a.
+pfb>
+Output written on sig-alternate.pdf (8 pages, 852198 bytes).
+PDF statistics:
+ 813 PDF objects out of 1000 (max. 8388607)
+ 577 compressed objects within 6 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 180 words of extra memory for PDF output out of 10000 (max. 10000000)
+
